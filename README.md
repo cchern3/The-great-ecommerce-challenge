@@ -25,7 +25,7 @@ DB_PW='your mysql password'
   Users may make pull requests, submit bugs or feature requests within the updated code if there is something that could be improved for the README generator.
 
   ## Demonstration
-  (VIDEO-DEMO) [https://drive.google.com/file/d/1p9RSD6ZAVnJ-6PpL14dlFISMArTO0gnL/view]
+  [VIDEO-DEMO](https://drive.google.com/file/d/1p9RSD6ZAVnJ-6PpL14dlFISMArTO0gnL/view)
   ## Questions
   Have questions about this project?  
   GitHub: https://github.com/cchern3  
